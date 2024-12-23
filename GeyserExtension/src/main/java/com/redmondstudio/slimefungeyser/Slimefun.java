@@ -1739,6 +1739,219 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", stuffed_red_bell_pepper);
 
+        CustomItemData electric_spawner_blaze = CustomItemData.builder()
+                .name("electric_spawner_blaze")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300401).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_blaze);
+
+        CustomItemData electric_spawner_cave_spider = CustomItemData.builder()
+                .name("electric_spawner_cave_spider")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300402).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_cave_spider);
+
+
+        CustomItemData electric_spawner_chicken = CustomItemData.builder()
+                .name("electric_spawner_chicken")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300403).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_chicken);
+
+
+        CustomItemData electric_spawner_cow = CustomItemData.builder()
+                .name("electric_spawner_cow")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300404).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_cow);
+
+
+        CustomItemData electric_spawner_creeper = CustomItemData.builder()
+                .name("electric_spawner_creeper")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300405).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_creeper);
+
+
+        CustomItemData electric_spawner_enderman = CustomItemData.builder()
+                .name("electric_spawner_enderman")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300406).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_enderman);
+
+
+        CustomItemData electric_spawner_endermite = CustomItemData.builder()
+                .name("electric_spawner_endermite")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300407).build())
+                .textureSize(32)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_endermite);
+
+
+        CustomItemData electric_spawner_ghast = CustomItemData.builder()
+                .name("electric_spawner_ghast")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300408).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_ghast);
+
+
+        CustomItemData electric_spawner_guardian = CustomItemData.builder()
+                .name("electric_spawner_guardian")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300409).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_guardian);
+
+
+        CustomItemData electric_spawner_horse = CustomItemData.builder()
+                .name("electric_spawner_horse")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300410).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_horse);
+
+
+        CustomItemData electric_spawner_iron_golem = CustomItemData.builder()
+                .name("electric_spawner_iron_golem")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300411).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_iron_golem);
+
+
+        CustomItemData electric_spawner_magma_cube = CustomItemData.builder()
+                .name("electric_spawner_magma_cube")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300412).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_magma_cube);
+
+
+        CustomItemData electric_spawner_mushroom_cow = CustomItemData.builder()
+                .name("electric_spawner_mushroom_cow")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300413).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_mushroom_cow);
+
+
+        CustomItemData electric_spawner_ocelot = CustomItemData.builder()
+                .name("electric_spawner_ocelot")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300414).build())
+                .textureSize(32)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_ocelot);
+
+
+        CustomItemData electric_spawner_pig = CustomItemData.builder()
+                .name("electric_spawner_pig")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300415).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_pig);
+
+        CustomItemData electric_spawner_rabbit = CustomItemData.builder()
+                .name("electric_spawner_rabbit")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300416).build())
+                .textureSize(32)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_rabbit);
+
+
+        CustomItemData electric_spawner_sheep = CustomItemData.builder()
+                .name("electric_spawner_sheep")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300417).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_sheep);
+
+
+        CustomItemData electric_spawner_silverfish = CustomItemData.builder()
+                .name("electric_spawner_silverfish")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300418).build())
+                .textureSize(32)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_silverfish);
+
+
+        CustomItemData electric_spawner_skeleton = CustomItemData.builder()
+                .name("electric_spawner_skeleton")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300419).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_skeleton);
+
+
+        CustomItemData electric_spawner_slime = CustomItemData.builder()
+                .name("electric_spawner_slime")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300420).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_slime);
+
+
+        CustomItemData electric_spawner_spider = CustomItemData.builder()
+                .name("electric_spawner_spider")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300421).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_spider);
+
+
+        CustomItemData electric_spawner_squid = CustomItemData.builder()
+                .name("electric_spawner_squid")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300422).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_squid);
+
+
+        CustomItemData electric_spawner_villager = CustomItemData.builder()
+                .name("electric_spawner_villager")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300423).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_villager);
+
+
+        CustomItemData electric_spawner_witch = CustomItemData.builder()
+                .name("electric_spawner_witch")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300424).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_witch);
+
+
+        CustomItemData electric_spawner_wither_skeleton = CustomItemData.builder()
+                .name("electric_spawner_wither_skeleton")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300425).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_wither_skeleton);
+
+
+        CustomItemData electric_spawner_wolf = CustomItemData.builder()
+                .name("electric_spawner_wolf")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300426).build())
+                .textureSize(32)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_wolf);
+
+
+        CustomItemData electric_spawner_zombie = CustomItemData.builder()
+                .name("electric_spawner_zombie")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2300427).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:player_head", electric_spawner_zombie);
+
         //
 		// GOLDEN_CARROT
 		//
@@ -2422,7 +2635,7 @@ public class Slimefun implements Extension {
 		
 		CustomItemData search = CustomItemData.builder()
                 .name("search")
-                .customItemOptions(CustomItemOptions.builder().customModelData(2200027).build())
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200005).build())
                 .textureSize(32)
                 .build();
         event.register("minecraft:name_tag", search);
@@ -4268,7 +4481,7 @@ public class Slimefun implements Extension {
 		
 		CustomItemData next_on = CustomItemData.builder()
                 .name("next_on")
-                .customItemOptions(CustomItemOptions.builder().customModelData(2200002).build())
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200009).build())
                 .textureSize(16)
                 .build();
         event.register("minecraft:lime_stained_glass_pane", next_on);
